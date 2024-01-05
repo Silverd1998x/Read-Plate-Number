@@ -1,0 +1,6 @@
+opencv-python
+tensorflow
+imutils
+ultralytics
+easyocr
+streamlit
